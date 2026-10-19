@@ -1,4 +1,16 @@
 # FacetDNA
+
+<div align="center">
+
+[![Language: R](https://img.shields.io/badge/Language-R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
+![Analysis: Linear regression](https://img.shields.io/badge/Analysis-Linear%20regression-497698)
+[![Tools: ggplot2](https://img.shields.io/badge/Tools-ggplot2-1A162D)](https://ggplot2.tidyverse.org/)
+
+![Diagnostics: car](https://img.shields.io/badge/Diagnostics-car-3B6B66)
+![Model selection: MASS](https://img.shields.io/badge/Model%20selection-MASS-334155)
+
+</div>
+
 A comprehensive regression analysis of diamond prices using R. Includes data exploration, model fitting, assumption testing, transformation, model selection, and diagnostics with visualizations and interpretations.
 
 ### Linear Regression Analysis on Diamond Prices
